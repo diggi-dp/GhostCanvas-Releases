@@ -3,7 +3,7 @@
 > **The ultimate stealth AI interview assistant.**
 > 
 > Download the latest version of GhostCanvas directly from the releases page below! For full documentation, free license keys, and setup instructions, visit our official website:
-> **[ghostcanvas-ai.vercel.app](https://ghostcanvas.in/)**
+> **[https://ghostcanvas.in](https://ghostcanvas.in/)**
 
 ## 📥 Download Instructions
 
@@ -26,7 +26,7 @@ GhostCanvas is an enterprise-grade, completely invisible AI-powered interview co
 - **Secure Hardware Licensing:** Machine-fingerprint locked APIs ensuring absolute user privacy and security.
 
 ### 🔗 Official Links & Resources
-- **Official Website (Get License Key):** [https://ghostcanvas-ai.vercel.app/](https://ghostcanvas.in/)
+- **Official Website (Get License Key):** [https://ghostcanvas.in/](https://ghostcanvas.in/)
 - **Installation & Setup Guide:** [Setup Documentation](https://ghostcanvas.in/setup)
 
 ---
